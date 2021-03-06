@@ -3,7 +3,7 @@
 Piktofy is an attemp of social network wrote in Java that uses SQL Databases. This project has been developed with Java 1.8.0_241, MySQL 5.7.29 and Workbench 8.0 and NetBeans IDE 8.2. 
 
 This is an educational project that shows the implementation of relational Databases on code using the MVC (Model-view-controller) design pattern. 
-Also in this Project will be attached the ERM (Entity-relationship model) Diagram to understand the interrelation of the entities in the database and the Data relational model (DRM).
+Also in this Project will be attached the ERM (Entity-relationship model) Diagram to understand the interrelation of the entities on the database and the Data Relational Model (DRM) to see how the tables were created specifically .
 
 ## ERM
 ![MERPIKTOFY](https://user-images.githubusercontent.com/36736949/110192047-d4799a80-7df9-11eb-9fe6-2984e8395582.png)
