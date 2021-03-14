@@ -6,9 +6,10 @@ This is an educational project that shows the implementation of relational Datab
 Also in this Project will be attached the ERM (Entity-relationship model) Diagram to understand the interrelation of the entities on the database and the Data Relational Model (DRM) to see how the tables were created specifically .
 
 # Libraries 
+```
 MySQL JDBC Driver - mysql-connector-java-5.1.23
 jcalendar 1.4
-
+```
 ## ERM
 ![MERPIKTOFY](https://user-images.githubusercontent.com/36736949/110192047-d4799a80-7df9-11eb-9fe6-2984e8395582.png)
 
